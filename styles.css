@@ -1,0 +1,216 @@
+/* Inicia indice de color tema original */
+a.scroll-top {
+    color: #4D92DF;
+    display: none;
+    width: 60px;
+    height: 60px;
+    position: fixed;
+    z-index: 1000;
+    bottom: 50px;
+    right: 40px;
+    font-size: 35px;
+    text-align: center;
+    background-color: #FFF;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #4D92DF;
+    border-image: initial;
+    border-radius: 50% !important;
+}
+/* Original end */
+
+/* Inicia indice tema red */
+a.scroll-top.red {
+    color: #9D2449; 
+    display: none;
+    width: 60px;
+    height: 60px;
+    position: fixed;
+    z-index: 1000;
+    bottom: 50px;
+    right: 40px;
+    font-size: 35px;
+    text-align: center;
+    background-color: #FFF;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #9D2449;
+    border-image: initial;
+    border-radius: 50% !important;
+}
+/* Red end */
+
+/* Inicia indice tema gris */
+a.scroll-top.gray {
+	color: #6F7271;
+    display: none;
+    width: 60px;
+    height: 60px;
+    position: fixed;
+    z-index: 1000;
+    bottom: 50px;
+    right: 40px;
+    font-size: 35px;
+    text-align: center;
+    background-color: #FFF;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #6F7271;
+    border-image: initial;
+    border-radius: 50% !important;
+}
+/* Gris end*/
+
+/* Inicia indice tema gold */
+a.scroll-top.gold {
+	color: #b38e5d;
+    display: none;
+    width: 60px;
+    height: 60px;
+    position: fixed;
+    z-index: 1000;
+    bottom: 150px;
+    right: 150px;
+    font-size: 35px;
+    text-align: center;
+    background-color: #FFF;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #b38e5d;
+    border-image: initial;
+    border-radius: 50% !important;
+}
+/* Gold end*/
+
+/* Inicia indice tema verde */
+a.scroll-top.grin {
+	color: #235B4E;
+    display: none;
+    width: 60px;
+    height: 60px;
+    position: fixed;
+    z-index: 1000;
+    bottom: 50px;
+    right: 40px;
+    font-size: 35px;
+    text-align: center;
+    background-color: #FFF;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #235B4E;
+    border-image: initial;
+    border-radius: 50% !important;
+}
+/* Gold end*/
+
+/* Original cuerpo*/
+a.scroll-top span {
+	position: relative;
+    top: 6px;
+    left: 0px;
+    font-size: 45px;
+}
+
+a.scroll-top.focus,
+a.scroll-top:focus {
+	color: #FFFFFF;
+    background-color: #4D92DF;
+    border-color: #4D92DF;;
+}
+
+a.scroll-top.active,
+a.scroll-top:active,
+a.scroll-top:hover {
+	color: #fff;
+    background-color: #4D92DF;
+    border-color: #4D92DF;
+};
+/* Original cuerpo end*/
+
+/* Red cuerpo*/
+a.scroll-top.red span {
+	position: relative;
+	top: 6px;
+}
+
+a.scroll-top.red.focus,
+a.scroll-top.red:focus {
+	color: #FFFFFF;
+    background-color: #9D2449 !important;
+    border-color: #9D2449 !important;
+}
+
+a.scroll-top.red.active,
+a.scroll-top.red:active,
+a.scroll-top.red:hover {
+	color: #fff;
+    background-color: #9D2449 !important;
+    border-color: #9D2449!important;
+};
+/* Red end*/
+
+/* Gray cuerpo*/
+a.scroll-top.gray span {
+	position: relative;
+	top: 6px;
+}
+
+a.scroll-top.gray.focus,
+a.scroll-top.gray:focus {
+	color: #FFFFFF;
+    background-color: #6F7271;
+    border-color: #6F7271;
+}
+
+a.scroll-top.gray.active,
+a.scroll-top.gray:active,
+a.scroll-top.gray:hover {
+	color: #fff;
+    background-color: #6F7271;
+    border-color: #6F7271;
+};
+
+/* Gray end*/
+
+/* Gold cuerpo */
+a.scroll-top.gold span {
+	position: relative;
+	top: 6px;
+}
+
+a.scroll-top.gold.focus,
+a.scroll-top.gold:focus {
+	color: #FFFFFF;
+    background-color: #b38e5d;
+    border-color: #b38e5d;
+}
+
+a.scroll-top.gold.active,
+a.scroll-top.gold:active,
+a.scroll-top.gold:hover {
+	color: #fff;
+    background-color: #b38e5d;
+    border-color: #b38e5d;
+};
+/* Gold end */
+
+/* Verde cuerpo */
+a.scroll-top.grin span {
+	position: relative;
+	top: 6px;
+}
+
+a.scroll-top.grin.focus,
+a.scroll-top.grin:focus {
+	color: #FFFFFF;
+    background-color: #235B4E;
+    border-color: #235B4E;
+}
+
+a.scroll-top.grin.active,
+a.scroll-top.grin:active,
+a.scroll-top.grin:hover {
+	color: #fff;
+    background-color: #235B4E;
+    border-color: #235B4E;
+};
